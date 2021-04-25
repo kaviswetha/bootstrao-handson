@@ -1,0 +1,7 @@
+C:\Users\lathikaa\Desktop\bootstrap\Bootstrap 1\Bootstrap 1\bin\Debug\Bootstrap 1.exe.config
+C:\Users\lathikaa\Desktop\bootstrap\Bootstrap 1\Bootstrap 1\bin\Debug\Bootstrap 1.exe
+C:\Users\lathikaa\Desktop\bootstrap\Bootstrap 1\Bootstrap 1\bin\Debug\Bootstrap 1.pdb
+C:\Users\lathikaa\Desktop\bootstrap\Bootstrap 1\Bootstrap 1\obj\Debug\Bootstrap 1.csprojAssemblyReference.cache
+C:\Users\lathikaa\Desktop\bootstrap\Bootstrap 1\Bootstrap 1\obj\Debug\Bootstrap 1.csproj.CoreCompileInputs.cache
+C:\Users\lathikaa\Desktop\bootstrap\Bootstrap 1\Bootstrap 1\obj\Debug\Bootstrap 1.exe
+C:\Users\lathikaa\Desktop\bootstrap\Bootstrap 1\Bootstrap 1\obj\Debug\Bootstrap 1.pdb
